@@ -65,7 +65,7 @@ namespace Codematic
                 softname = Languagelist["SoftName"].ToString();
             }            
             this.Text = softname+"  V" + Application.ProductVersion;
-            webBrowser1.Url = new System.Uri("http://www.maticsoft.com/codematic/count.htm?v=" + Application.ProductVersion, System.UriKind.Absolute);
+            //webBrowser1.Url = new System.Uri("http://www.maticsoft.com/codematic/count.htm?v=" + Application.ProductVersion, System.UriKind.Absolute);
 
 
 
@@ -377,27 +377,27 @@ namespace Codematic
         #region 发送安装信息
         void SendSetup()
         {
-            try
-            {
-                WebClient wc = new WebClient();
-                string url = "http://www.maticsoft.com/setup.aspx";
+            //try
+            //{
+            //    WebClient wc = new WebClient();
+            //    string url = "http://www.maticsoft.com/setup.aspx";
 
-                NameValueCollection nvc = new NameValueCollection();
-                nvc.Add("SoftName", "Codematic");
-                nvc.Add("Version", Application.ProductVersion);
-                //nvc.Add("OS", "1");
-                //nvc.Add("Mac", "ee-ee-ff-ds");
-                nvc.Add("SQLinfo", "ee-ee-ff-ds");
-                byte[] databuffer = wc.UploadValues(url, "POST", nvc);
-                string text = Encoding.Default.GetString(databuffer);
-                wc.Dispose();
-                appsettings.Setup = true;
-                Maticsoft.CmConfig.AppConfig.SaveSettings(appsettings);
-            }
-            catch (System.Exception ex)
-            {
-                LogInfo.WriteLog(ex);
-            }
+            //    NameValueCollection nvc = new NameValueCollection();
+            //    nvc.Add("SoftName", "Codematic");
+            //    nvc.Add("Version", Application.ProductVersion);
+            //    //nvc.Add("OS", "1");
+            //    //nvc.Add("Mac", "ee-ee-ff-ds");
+            //    nvc.Add("SQLinfo", "ee-ee-ff-ds");
+            //    byte[] databuffer = wc.UploadValues(url, "POST", nvc);
+            //    string text = Encoding.Default.GetString(databuffer);
+            //    wc.Dispose();
+            //    appsettings.Setup = true;
+            //    Maticsoft.CmConfig.AppConfig.SaveSettings(appsettings);
+            //}
+            //catch (System.Exception ex)
+            //{
+            //    LogInfo.WriteLog(ex);
+            //}
         }
         #endregion
 
@@ -1969,19 +1969,23 @@ namespace Codematic
 
         }
 
+
+
+
+
+
+
+
+
+
+
+
+
         #endregion
 
-       
-        
+        private void MainForm_Load(object sender, EventArgs e)
+        {
 
-        
-
-        
-
-        
-
-
-
-
+        }
     }
 }

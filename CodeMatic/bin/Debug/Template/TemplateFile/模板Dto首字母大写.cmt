@@ -1,0 +1,28 @@
+﻿<#@ template language="c#" HostSpecific="True" #>
+<#@ output extension= ".cs" #>
+<#
+	TableHost host = (TableHost)(Host);
+#>
+using System; 
+using System.Text;
+using System.Collections.Generic; 
+using System.Data;
+namespace <#= host.NameSpace #>  
+{
+<# if( host.TableDescription.Length > 0) {#>
+ //<#= host.TableDescription #>
+<# } #>
+ public class <#= System.Threading.Thread.CurrentThread.CurrentCulture.TextInfo.ToTitleCase(host.TableName)  #>Dto
+ {
+   public void <#= System.Threading.Thread.CurrentThread.CurrentCulture.TextInfo.ToTitleCase(host.TableName) #>Dto()
+   {
+      
+   }
+	 <# foreach (ColumnInfo c in host.Fieldlist)
+	{ #>/// <summary>
+	/// <#= c.Description == "" ? c.ColumnName : c.Description #>
+	/// </summary>
+	public <#= CodeCommon.DbTypeToCS(c.TypeName) #> <#=System.Threading.Thread.CurrentThread.CurrentCulture.TextInfo.ToTitleCase(c.ColumnName)  #> { get; set; }
+	<# } #>
+}
+}

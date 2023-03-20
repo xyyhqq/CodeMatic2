@@ -1,0 +1,17 @@
+D:\上位机软件\Codematic2\Builder\BuilderModel\bin\Debug\Maticsoft.BuilderModel.dll
+D:\上位机软件\Codematic2\Builder\BuilderModel\bin\Debug\Maticsoft.BuilderModel.pdb
+D:\上位机软件\Codematic2\Builder\BuilderModel\bin\Debug\Maticsoft.CodeHelper.dll
+D:\上位机软件\Codematic2\Builder\BuilderModel\bin\Debug\Maticsoft.IBuilder.dll
+D:\上位机软件\Codematic2\Builder\BuilderModel\bin\Debug\Maticsoft.Utility.dll
+D:\上位机软件\Codematic2\Builder\BuilderModel\bin\Debug\Maticsoft.CmConfig.dll
+D:\上位机软件\Codematic2\Builder\BuilderModel\bin\Debug\Maticsoft.IDBO.dll
+D:\上位机软件\Codematic2\Builder\BuilderModel\bin\Debug\Maticsoft.CodeHelper.pdb
+D:\上位机软件\Codematic2\Builder\BuilderModel\bin\Debug\Maticsoft.IBuilder.pdb
+D:\上位机软件\Codematic2\Builder\BuilderModel\bin\Debug\Maticsoft.Utility.pdb
+D:\上位机软件\Codematic2\Builder\BuilderModel\bin\Debug\Maticsoft.CmConfig.pdb
+D:\上位机软件\Codematic2\Builder\BuilderModel\bin\Debug\Maticsoft.IDBO.pdb
+D:\上位机软件\Codematic2\Builder\BuilderModel\obj\Debug\BuilderModel.csproj.AssemblyReference.cache
+D:\上位机软件\Codematic2\Builder\BuilderModel\obj\Debug\BuilderModel.csproj.CoreCompileInputs.cache
+D:\上位机软件\Codematic2\Builder\BuilderModel\obj\Debug\BuilderModel.csproj.CopyComplete
+D:\上位机软件\Codematic2\Builder\BuilderModel\obj\Debug\Maticsoft.BuilderModel.dll
+D:\上位机软件\Codematic2\Builder\BuilderModel\obj\Debug\Maticsoft.BuilderModel.pdb

@@ -1,0 +1,17 @@
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\bin\Debug\Maticsoft.BuilderDALIBatisNet.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\bin\Debug\Maticsoft.BuilderDALIBatisNet.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\bin\Debug\Maticsoft.CodeHelper.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\bin\Debug\Maticsoft.IBuilder.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\bin\Debug\Maticsoft.IDBO.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\bin\Debug\Maticsoft.Utility.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\bin\Debug\Maticsoft.CmConfig.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\bin\Debug\Maticsoft.CodeHelper.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\bin\Debug\Maticsoft.IBuilder.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\bin\Debug\Maticsoft.IDBO.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\bin\Debug\Maticsoft.Utility.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\bin\Debug\Maticsoft.CmConfig.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\obj\Debug\BuilderDALIBatisNet.csproj.CoreCompileInputs.cache
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\obj\Debug\BuilderDALIBatisNet.csproj.CopyComplete
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\obj\Debug\Maticsoft.BuilderDALIBatisNet.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\obj\Debug\Maticsoft.BuilderDALIBatisNet.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNet\obj\Debug\BuilderDALIBatisNet.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\上位机软件\Codematic2\AddInManager\bin\Debug\Maticsoft.AddInManager.dll
+D:\上位机软件\Codematic2\AddInManager\bin\Debug\Maticsoft.AddInManager.pdb
+D:\上位机软件\Codematic2\AddInManager\bin\Debug\Maticsoft.Utility.dll
+D:\上位机软件\Codematic2\AddInManager\bin\Debug\Maticsoft.Utility.pdb
+D:\上位机软件\Codematic2\AddInManager\obj\Debug\AddInManager.csproj.AssemblyReference.cache
+D:\上位机软件\Codematic2\AddInManager\obj\Debug\Maticsoft.AddInManager.Properties.Resources.resources
+D:\上位机软件\Codematic2\AddInManager\obj\Debug\AddInManager.csproj.GenerateResource.cache
+D:\上位机软件\Codematic2\AddInManager\obj\Debug\AddInManager.csproj.CoreCompileInputs.cache
+D:\上位机软件\Codematic2\AddInManager\obj\Debug\AddInManager.csproj.CopyComplete
+D:\上位机软件\Codematic2\AddInManager\obj\Debug\Maticsoft.AddInManager.dll
+D:\上位机软件\Codematic2\AddInManager\obj\Debug\Maticsoft.AddInManager.pdb

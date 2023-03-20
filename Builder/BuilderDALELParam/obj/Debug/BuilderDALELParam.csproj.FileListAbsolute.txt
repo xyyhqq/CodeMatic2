@@ -1,0 +1,17 @@
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\bin\Debug\Maticsoft.BuilderDALELParam.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\bin\Debug\Maticsoft.BuilderDALELParam.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\bin\Debug\Maticsoft.CodeHelper.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\bin\Debug\Maticsoft.IBuilder.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\bin\Debug\Maticsoft.IDBO.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\bin\Debug\Maticsoft.Utility.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\bin\Debug\Maticsoft.CmConfig.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\bin\Debug\Maticsoft.CodeHelper.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\bin\Debug\Maticsoft.IBuilder.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\bin\Debug\Maticsoft.IDBO.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\bin\Debug\Maticsoft.Utility.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\bin\Debug\Maticsoft.CmConfig.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\obj\Debug\BuilderDALELParam.csproj.AssemblyReference.cache
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\obj\Debug\BuilderDALELParam.csproj.CoreCompileInputs.cache
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\obj\Debug\BuilderDALELParam.csproj.CopyComplete
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\obj\Debug\Maticsoft.BuilderDALELParam.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALELParam\obj\Debug\Maticsoft.BuilderDALELParam.pdb

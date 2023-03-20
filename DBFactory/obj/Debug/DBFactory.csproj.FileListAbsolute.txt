@@ -1,0 +1,15 @@
+D:\上位机软件\Codematic2\DBFactory\bin\Debug\Maticsoft.DBFactory.dll
+D:\上位机软件\Codematic2\DBFactory\bin\Debug\Maticsoft.DBFactory.pdb
+D:\上位机软件\Codematic2\DBFactory\bin\Debug\Maticsoft.IDBO.dll
+D:\上位机软件\Codematic2\DBFactory\bin\Debug\Maticsoft.Utility.dll
+D:\上位机软件\Codematic2\DBFactory\bin\Debug\Maticsoft.CodeHelper.dll
+D:\上位机软件\Codematic2\DBFactory\bin\Debug\Maticsoft.CmConfig.dll
+D:\上位机软件\Codematic2\DBFactory\bin\Debug\Maticsoft.IDBO.pdb
+D:\上位机软件\Codematic2\DBFactory\bin\Debug\Maticsoft.Utility.pdb
+D:\上位机软件\Codematic2\DBFactory\bin\Debug\Maticsoft.CodeHelper.pdb
+D:\上位机软件\Codematic2\DBFactory\bin\Debug\Maticsoft.CmConfig.pdb
+D:\上位机软件\Codematic2\DBFactory\obj\Debug\DBFactory.csproj.CoreCompileInputs.cache
+D:\上位机软件\Codematic2\DBFactory\obj\Debug\DBFactory.csproj.CopyComplete
+D:\上位机软件\Codematic2\DBFactory\obj\Debug\Maticsoft.DBFactory.dll
+D:\上位机软件\Codematic2\DBFactory\obj\Debug\Maticsoft.DBFactory.pdb
+D:\上位机软件\Codematic2\DBFactory\obj\Debug\DBFactory.csproj.AssemblyReference.cache

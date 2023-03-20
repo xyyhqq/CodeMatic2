@@ -1,0 +1,17 @@
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\bin\Debug\Maticsoft.BuilderWebMVC.dll
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\bin\Debug\Maticsoft.BuilderWebMVC.pdb
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\bin\Debug\Maticsoft.CodeHelper.dll
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\bin\Debug\Maticsoft.IBuilder.dll
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\bin\Debug\Maticsoft.IDBO.dll
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\bin\Debug\Maticsoft.Utility.dll
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\bin\Debug\Maticsoft.CmConfig.dll
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\bin\Debug\Maticsoft.CodeHelper.pdb
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\bin\Debug\Maticsoft.IBuilder.pdb
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\bin\Debug\Maticsoft.IDBO.pdb
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\bin\Debug\Maticsoft.Utility.pdb
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\bin\Debug\Maticsoft.CmConfig.pdb
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\obj\Debug\BuilderWebMVC.csproj.AssemblyReference.cache
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\obj\Debug\BuilderWebMVC.csproj.CoreCompileInputs.cache
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\obj\Debug\BuilderWebMVC.csproj.CopyComplete
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\obj\Debug\Maticsoft.BuilderWebMVC.dll
+D:\上位机软件\Codematic2\Builder\BuilderWebMVC\obj\Debug\Maticsoft.BuilderWebMVC.pdb

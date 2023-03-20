@@ -1,0 +1,11 @@
+D:\上位机软件\Codematic2\CodeHelper\bin\Debug\Maticsoft.CodeHelper.dll
+D:\上位机软件\Codematic2\CodeHelper\bin\Debug\Maticsoft.CodeHelper.pdb
+D:\上位机软件\Codematic2\CodeHelper\bin\Debug\Maticsoft.CmConfig.dll
+D:\上位机软件\Codematic2\CodeHelper\bin\Debug\Maticsoft.Utility.dll
+D:\上位机软件\Codematic2\CodeHelper\bin\Debug\Maticsoft.CmConfig.pdb
+D:\上位机软件\Codematic2\CodeHelper\bin\Debug\Maticsoft.Utility.pdb
+D:\上位机软件\Codematic2\CodeHelper\obj\Debug\CodeHelper.csproj.AssemblyReference.cache
+D:\上位机软件\Codematic2\CodeHelper\obj\Debug\CodeHelper.csproj.CoreCompileInputs.cache
+D:\上位机软件\Codematic2\CodeHelper\obj\Debug\CodeHelper.csproj.CopyComplete
+D:\上位机软件\Codematic2\CodeHelper\obj\Debug\Maticsoft.CodeHelper.dll
+D:\上位机软件\Codematic2\CodeHelper\obj\Debug\Maticsoft.CodeHelper.pdb

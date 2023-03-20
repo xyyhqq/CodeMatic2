@@ -2816,7 +2816,7 @@ namespace Codematic
 
             #region SQLSERVER 数据库信息
             if ((dbset.DbType == "SQL2000") || (dbset.DbType == "SQL2005")
-                || (dbset.DbType == "SQL2008") || (dbset.DbType == "SQL2012"))
+                || (dbset.DbType == "SQL2008") || (dbset.DbType == "SQL2012") || (dbset.DbType == "SQL2019"))
             {
                 try
                 {

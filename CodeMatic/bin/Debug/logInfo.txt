@@ -1201,3 +1201,77 @@ Source: System.Data
 2011/12/9 15:35:55:未将对象引用设置到对象的实例。
 2011/12/9 15:36:14:未将对象引用设置到对象的实例。
 2011/12/9 16:02:56:未将对象引用设置到对象的实例。
+2023/3/17 14:58:28:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 14:58:37:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 14:59:49:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:01:03:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:01:15:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:04:31:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:04:42:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:06:42:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:06:51:
+错误信息：登录失败。该登录名来自不受信任的域，不能与集成身份验证一起使用。
+Stack Trace:   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 Codematic.LoginForm.GetSQLVer(String connectionString) 位置 D:\上位机软件\Codematic2\CodeMatic\LoginForm.cs:行号 442
+Source: .Net SqlClient Data Provider
+
+2023/3/17 15:06:51:创建数据库对象失败:SQL2019
+2023/3/17 15:07:15:创建数据库对象失败:SQL2019
+2023/3/17 15:07:39:创建数据库对象失败:SQL2019
+2023/3/17 15:07:56:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:18:05:
+错误信息：未将对象引用设置到对象的实例。
+Stack Trace:   在 Codematic.DbView.ConnectServer(TreeNode serverNode, DbSettings dbset, DoWorkEventArgs e) 位置 D:\上位机软件\Codematic2\CodeMatic\DbView.cs:行号 2813
+   在 Codematic.DbView.DoConnect(Object sender, DoWorkEventArgs e) 位置 D:\上位机软件\Codematic2\CodeMatic\DbView.cs:行号 2767
+Source: Codematic
+
+2023/3/17 15:18:16:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:27:59:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:29:50:创建数据库对象失败:SQL2019
+2023/3/17 15:31:39:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:32:27:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:32:37:创建数据库对象失败:SQL2019
+2023/3/17 15:33:55:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:34:25:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:34:35:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:35:08:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:35:44:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:36:08:创建数据库对象失败:SQL2019
+2023/3/17 15:36:34:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:37:12:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:37:24:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:41:55:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:50:31:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:51:00:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 15:55:32:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 16:04:23:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 16:52:23:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 16:57:28:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 16:57:44:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 16:59:14:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 16:59:36:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/17 17:03:36:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/20 8:48:24:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/20 8:49:38:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/20 8:50:08:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/20 8:51:07:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/20 8:54:05:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/20 8:54:40:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/20 8:57:47:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/20 9:02:17:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。
+2023/3/20 9:38:58:Check Version Server Error:请求因 HTTP 状态 404 失败: Not Found。

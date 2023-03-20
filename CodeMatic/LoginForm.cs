@@ -102,20 +102,20 @@ namespace Codematic
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(32, 130);
+            this.label1.Location = new System.Drawing.Point(60, 147);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(121, 15);
+            this.label1.Size = new System.Drawing.Size(95, 12);
             this.label1.TabIndex = 0;
             this.label1.Text = "服务器名称(&S)：";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // groupBox1
             // 
-            this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox1.Location = new System.Drawing.Point(43, 366);
+            this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox1.Location = new System.Drawing.Point(32, 387);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(506, 7);
+            this.groupBox1.Size = new System.Drawing.Size(532, 5);
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
             // 
@@ -123,51 +123,51 @@ namespace Codematic
             // 
             this.cmbDBlist.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbDBlist.Enabled = false;
-            this.cmbDBlist.Location = new System.Drawing.Point(192, 282);
+            this.cmbDBlist.Location = new System.Drawing.Point(180, 265);
             this.cmbDBlist.Name = "cmbDBlist";
-            this.cmbDBlist.Size = new System.Drawing.Size(309, 23);
+            this.cmbDBlist.Size = new System.Drawing.Size(232, 20);
             this.cmbDBlist.TabIndex = 6;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(64, 287);
+            this.label4.Location = new System.Drawing.Point(84, 269);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(91, 15);
+            this.label4.Size = new System.Drawing.Size(71, 12);
             this.label4.TabIndex = 5;
             this.label4.Text = "数据库(&D)：";
             // 
             // txtUser
             // 
-            this.txtUser.Location = new System.Drawing.Point(192, 217);
+            this.txtUser.Location = new System.Drawing.Point(180, 215);
             this.txtUser.Name = "txtUser";
-            this.txtUser.Size = new System.Drawing.Size(309, 25);
+            this.txtUser.Size = new System.Drawing.Size(232, 21);
             this.txtUser.TabIndex = 3;
             this.txtUser.Text = "sa";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(64, 222);
+            this.label2.Location = new System.Drawing.Point(84, 219);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(91, 15);
+            this.label2.Size = new System.Drawing.Size(71, 12);
             this.label2.TabIndex = 2;
             this.label2.Text = "登录名(&L)：";
             // 
             // txtPass
             // 
-            this.txtPass.Location = new System.Drawing.Point(192, 249);
+            this.txtPass.Location = new System.Drawing.Point(180, 240);
             this.txtPass.Name = "txtPass";
             this.txtPass.PasswordChar = '*';
-            this.txtPass.Size = new System.Drawing.Size(309, 25);
+            this.txtPass.Size = new System.Drawing.Size(232, 21);
             this.txtPass.TabIndex = 3;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(80, 255);
+            this.label3.Location = new System.Drawing.Point(96, 244);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(76, 15);
+            this.label3.Size = new System.Drawing.Size(59, 12);
             this.label3.TabIndex = 2;
             this.label3.Text = "密码(&P)：";
             // 
@@ -176,9 +176,9 @@ namespace Codematic
             this.chk_Simple.AutoSize = true;
             this.chk_Simple.Checked = true;
             this.chk_Simple.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.chk_Simple.Location = new System.Drawing.Point(192, 314);
+            this.chk_Simple.Location = new System.Drawing.Point(180, 290);
             this.chk_Simple.Name = "chk_Simple";
-            this.chk_Simple.Size = new System.Drawing.Size(119, 19);
+            this.chk_Simple.Size = new System.Drawing.Size(96, 16);
             this.chk_Simple.TabIndex = 22;
             this.chk_Simple.Text = "高效连接模式";
             this.toolTip1.SetToolTip(this.chk_Simple, "在表非常多的情况下，启用该模式提高连接速度");
@@ -187,16 +187,16 @@ namespace Codematic
             // btn_Ok
             // 
             this.btn_Ok._Image = null;
-            this.btn_Ok.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.btn_Ok.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_Ok.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
             this.btn_Ok.DefaultScheme = false;
             this.btn_Ok.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btn_Ok.Image = null;
-            this.btn_Ok.Location = new System.Drawing.Point(217, 392);
+            this.btn_Ok.Location = new System.Drawing.Point(201, 407);
             this.btn_Ok.Name = "btn_Ok";
             this.btn_Ok.Scheme = WiB.Pinkie.Controls.ButtonXP.Schemes.Blue;
-            this.btn_Ok.Size = new System.Drawing.Size(107, 36);
+            this.btn_Ok.Size = new System.Drawing.Size(157, 28);
             this.btn_Ok.TabIndex = 19;
             this.btn_Ok.Text = "确定(&O):";
             this.btn_Ok.Click += new System.EventHandler(this.btn_Ok_Click);
@@ -204,16 +204,16 @@ namespace Codematic
             // btn_Cancel
             // 
             this.btn_Cancel._Image = null;
-            this.btn_Cancel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.btn_Cancel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_Cancel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
             this.btn_Cancel.DefaultScheme = false;
             this.btn_Cancel.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btn_Cancel.Image = null;
-            this.btn_Cancel.Location = new System.Drawing.Point(360, 392);
+            this.btn_Cancel.Location = new System.Drawing.Point(382, 407);
             this.btn_Cancel.Name = "btn_Cancel";
             this.btn_Cancel.Scheme = WiB.Pinkie.Controls.ButtonXP.Schemes.Blue;
-            this.btn_Cancel.Size = new System.Drawing.Size(107, 36);
+            this.btn_Cancel.Size = new System.Drawing.Size(164, 28);
             this.btn_Cancel.TabIndex = 20;
             this.btn_Cancel.Text = "取消(&C):";
             this.btn_Cancel.Click += new System.EventHandler(this.btn_Cancel_Click);
@@ -221,16 +221,16 @@ namespace Codematic
             // btn_ConTest
             // 
             this.btn_ConTest._Image = null;
-            this.btn_ConTest.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.btn_ConTest.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_ConTest.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
             this.btn_ConTest.DefaultScheme = false;
             this.btn_ConTest.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btn_ConTest.Image = null;
-            this.btn_ConTest.Location = new System.Drawing.Point(75, 392);
+            this.btn_ConTest.Location = new System.Drawing.Point(26, 407);
             this.btn_ConTest.Name = "btn_ConTest";
             this.btn_ConTest.Scheme = WiB.Pinkie.Controls.ButtonXP.Schemes.Blue;
-            this.btn_ConTest.Size = new System.Drawing.Size(106, 36);
+            this.btn_ConTest.Size = new System.Drawing.Size(135, 28);
             this.btn_ConTest.TabIndex = 19;
             this.btn_ConTest.Text = "连接/测试";
             this.btn_ConTest.Click += new System.EventHandler(this.btn_ConTest_Click);
@@ -238,18 +238,18 @@ namespace Codematic
             // comboBoxServer
             // 
             this.comboBoxServer.FormattingEnabled = true;
-            this.comboBoxServer.Location = new System.Drawing.Point(192, 125);
+            this.comboBoxServer.Location = new System.Drawing.Point(180, 143);
             this.comboBoxServer.Name = "comboBoxServer";
-            this.comboBoxServer.Size = new System.Drawing.Size(309, 23);
+            this.comboBoxServer.Size = new System.Drawing.Size(232, 20);
             this.comboBoxServer.TabIndex = 21;
             this.comboBoxServer.Text = "127.0.0.1";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(32, 161);
+            this.label5.Location = new System.Drawing.Point(60, 171);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(121, 15);
+            this.label5.Size = new System.Drawing.Size(95, 12);
             this.label5.TabIndex = 0;
             this.label5.Text = "服务器类型(&T)：";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -259,21 +259,22 @@ namespace Codematic
             this.comboBoxServerVer.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBoxServerVer.FormattingEnabled = true;
             this.comboBoxServerVer.Items.AddRange(new object[] {
+            "SQL Server2019",
             "SQL Server2012",
             "SQL Server2008",
             "SQL Server2005",
             "SQL Server2000"});
-            this.comboBoxServerVer.Location = new System.Drawing.Point(192, 156);
+            this.comboBoxServerVer.Location = new System.Drawing.Point(180, 167);
             this.comboBoxServerVer.Name = "comboBoxServerVer";
-            this.comboBoxServerVer.Size = new System.Drawing.Size(309, 23);
+            this.comboBoxServerVer.Size = new System.Drawing.Size(232, 20);
             this.comboBoxServerVer.TabIndex = 21;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(48, 192);
+            this.label6.Location = new System.Drawing.Point(72, 195);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(106, 15);
+            this.label6.Size = new System.Drawing.Size(83, 12);
             this.label6.TabIndex = 0;
             this.label6.Text = "身份验证(&A)：";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -285,9 +286,9 @@ namespace Codematic
             this.comboBox_Verified.Items.AddRange(new object[] {
             "SQL Server 身份认证",
             "Windows 身份认证"});
-            this.comboBox_Verified.Location = new System.Drawing.Point(192, 186);
+            this.comboBox_Verified.Location = new System.Drawing.Point(180, 191);
             this.comboBox_Verified.Name = "comboBox_Verified";
-            this.comboBox_Verified.Size = new System.Drawing.Size(309, 23);
+            this.comboBox_Verified.Size = new System.Drawing.Size(232, 20);
             this.comboBox_Verified.TabIndex = 21;
             this.comboBox_Verified.SelectedIndexChanged += new System.EventHandler(this.comboBox_Verified_SelectedIndexChanged);
             // 
@@ -309,23 +310,23 @@ namespace Codematic
             "加载全部表：",
             "只加载表名中含有：",
             "不加载表名中含有："});
-            this.cmboxTabLoadtype.Location = new System.Drawing.Point(192, 336);
+            this.cmboxTabLoadtype.Location = new System.Drawing.Point(180, 307);
             this.cmboxTabLoadtype.Name = "cmboxTabLoadtype";
-            this.cmboxTabLoadtype.Size = new System.Drawing.Size(170, 23);
+            this.cmboxTabLoadtype.Size = new System.Drawing.Size(128, 20);
             this.cmboxTabLoadtype.TabIndex = 24;
             this.cmboxTabLoadtype.SelectedIndexChanged += new System.EventHandler(this.cmboxTabLoadtype_SelectedIndexChanged);
             // 
             // txtTabLoadKeyword
             // 
-            this.txtTabLoadKeyword.Location = new System.Drawing.Point(368, 335);
+            this.txtTabLoadKeyword.Location = new System.Drawing.Point(312, 307);
             this.txtTabLoadKeyword.Name = "txtTabLoadKeyword";
-            this.txtTabLoadKeyword.Size = new System.Drawing.Size(133, 25);
+            this.txtTabLoadKeyword.Size = new System.Drawing.Size(100, 21);
             this.txtTabLoadKeyword.TabIndex = 25;
             // 
             // LoginForm
             // 
             this.AcceptButton = this.btn_Ok;
-            this.AutoScaleBaseSize = new System.Drawing.Size(8, 18);
+            this.AutoScaleBaseSize = new System.Drawing.Size(6, 14);
             this.CancelButton = this.btn_Cancel;
             this.ClientSize = new System.Drawing.Size(610, 458);
             this.Controls.Add(this.txtTabLoadKeyword);
@@ -405,6 +406,9 @@ namespace Codematic
                     break;
                 case "SQL Server2012":
                     dbtype = "SQL2012";
+                    break;
+                case "SQL Server2019":
+                    dbtype = "SQL2019";
                     break;
                 default:
                     dbtype= "SQL2005";
@@ -744,6 +748,16 @@ namespace Codematic
                 try
                 {
                     string ver = GetSQLVer(constr);
+
+                    if ((ver != "15") && (strtype == "SQL2019"))
+                    {
+                        DialogResult dr = MessageBox.Show(this, "该数据库服务器版本并非SQLServer 2019，是否进行重新选择？点“否”可继续。", "提示", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
+                        if (dr == DialogResult.OK)
+                        {
+                            //comboBoxServerVer.SelectedIndex = 1;
+                            return;
+                        }
+                    }
                     if ((ver != "11") && (strtype == "SQL2012"))
                     {
                         DialogResult dr = MessageBox.Show(this, "该数据库服务器版本并非SQLServer 2012，是否进行重新选择？点“否”可继续。", "提示", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);

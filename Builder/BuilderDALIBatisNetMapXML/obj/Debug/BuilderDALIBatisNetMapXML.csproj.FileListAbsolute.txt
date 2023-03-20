@@ -1,0 +1,17 @@
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\bin\Debug\Maticsoft.BuilderDALIBatisNetMapXML.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\bin\Debug\Maticsoft.BuilderDALIBatisNetMapXML.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\bin\Debug\Maticsoft.CodeHelper.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\bin\Debug\Maticsoft.IBuilder.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\bin\Debug\Maticsoft.IDBO.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\bin\Debug\Maticsoft.Utility.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\bin\Debug\Maticsoft.CmConfig.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\bin\Debug\Maticsoft.CodeHelper.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\bin\Debug\Maticsoft.IBuilder.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\bin\Debug\Maticsoft.IDBO.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\bin\Debug\Maticsoft.Utility.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\bin\Debug\Maticsoft.CmConfig.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\obj\Debug\BuilderDALIBatisNetMapXML.csproj.CoreCompileInputs.cache
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\obj\Debug\BuilderDALIBatisNetMapXML.csproj.CopyComplete
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\obj\Debug\Maticsoft.BuilderDALIBatisNetMapXML.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\obj\Debug\Maticsoft.BuilderDALIBatisNetMapXML.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALIBatisNetMapXML\obj\Debug\BuilderDALIBatisNetMapXML.csproj.AssemblyReference.cache

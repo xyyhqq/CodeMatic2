@@ -1,0 +1,6 @@
+D:\上位机软件\Codematic2\VSProject\bin\Debug\VSProject.dll
+D:\上位机软件\Codematic2\VSProject\bin\Debug\VSProject.pdb
+D:\上位机软件\Codematic2\VSProject\obj\Debug\VSProject.csproj.AssemblyReference.cache
+D:\上位机软件\Codematic2\VSProject\obj\Debug\VSProject.csproj.CoreCompileInputs.cache
+D:\上位机软件\Codematic2\VSProject\obj\Debug\VSProject.dll
+D:\上位机软件\Codematic2\VSProject\obj\Debug\VSProject.pdb

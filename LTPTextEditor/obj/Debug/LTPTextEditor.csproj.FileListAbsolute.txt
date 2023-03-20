@@ -1,0 +1,10 @@
+D:\上位机软件\Codematic2\LTPTextEditor\bin\Debug\LTPTextEditor.dll
+D:\上位机软件\Codematic2\LTPTextEditor\bin\Debug\LTPTextEditor.pdb
+D:\上位机软件\Codematic2\LTPTextEditor\bin\Debug\ICSharpCode.TextEditor.dll
+D:\上位机软件\Codematic2\LTPTextEditor\obj\Debug\LTPTextEditor.csproj.AssemblyReference.cache
+D:\上位机软件\Codematic2\LTPTextEditor\obj\Debug\LTPTextEditor.Editor.TextEditorControlWrapper.resources
+D:\上位机软件\Codematic2\LTPTextEditor\obj\Debug\LTPTextEditor.csproj.GenerateResource.cache
+D:\上位机软件\Codematic2\LTPTextEditor\obj\Debug\LTPTextEditor.csproj.CoreCompileInputs.cache
+D:\上位机软件\Codematic2\LTPTextEditor\obj\Debug\LTPTextEditor.csproj.CopyComplete
+D:\上位机软件\Codematic2\LTPTextEditor\obj\Debug\LTPTextEditor.dll
+D:\上位机软件\Codematic2\LTPTextEditor\obj\Debug\LTPTextEditor.pdb

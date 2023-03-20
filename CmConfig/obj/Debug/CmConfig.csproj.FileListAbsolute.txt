@@ -1,0 +1,6 @@
+D:\上位机软件\Codematic2\CmConfig\bin\Debug\Maticsoft.CmConfig.dll
+D:\上位机软件\Codematic2\CmConfig\bin\Debug\Maticsoft.CmConfig.pdb
+D:\上位机软件\Codematic2\CmConfig\obj\Debug\CmConfig.csproj.CoreCompileInputs.cache
+D:\上位机软件\Codematic2\CmConfig\obj\Debug\Maticsoft.CmConfig.dll
+D:\上位机软件\Codematic2\CmConfig\obj\Debug\Maticsoft.CmConfig.pdb
+D:\上位机软件\Codematic2\CmConfig\obj\Debug\CmConfig.csproj.AssemblyReference.cache

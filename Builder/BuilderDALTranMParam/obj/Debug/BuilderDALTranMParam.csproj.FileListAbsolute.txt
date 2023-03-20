@@ -1,0 +1,17 @@
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\bin\Debug\Maticsoft.BuilderDALTranMParam.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\bin\Debug\Maticsoft.BuilderDALTranMParam.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\bin\Debug\Maticsoft.CodeHelper.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\bin\Debug\Maticsoft.IBuilder.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\bin\Debug\Maticsoft.IDBO.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\bin\Debug\Maticsoft.Utility.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\bin\Debug\Maticsoft.CmConfig.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\bin\Debug\Maticsoft.CodeHelper.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\bin\Debug\Maticsoft.IBuilder.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\bin\Debug\Maticsoft.IDBO.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\bin\Debug\Maticsoft.Utility.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\bin\Debug\Maticsoft.CmConfig.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\obj\Debug\BuilderDALTranMParam.csproj.CoreCompileInputs.cache
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\obj\Debug\BuilderDALTranMParam.csproj.CopyComplete
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\obj\Debug\Maticsoft.BuilderDALTranMParam.dll
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\obj\Debug\Maticsoft.BuilderDALTranMParam.pdb
+D:\上位机软件\Codematic2\Builder\BuilderDALTranMParam\obj\Debug\BuilderDALTranMParam.csproj.AssemblyReference.cache
